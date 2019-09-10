@@ -1,0 +1,35 @@
+c:\users\paul\documents\visual studio 2010\Projects\skid analysis\skid analysis\bin\Debug\skid analysis.exe
+c:\users\paul\documents\visual studio 2010\Projects\skid analysis\skid analysis\bin\Debug\skid analysis.pdb
+c:\users\paul\documents\visual studio 2010\Projects\skid analysis\skid analysis\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\paul\documents\visual studio 2010\Projects\skid analysis\skid analysis\obj\x86\Debug\skid_analysis.Form1.resources
+c:\users\paul\documents\visual studio 2010\Projects\skid analysis\skid analysis\obj\x86\Debug\skid_analysis.Properties.Resources.resources
+c:\users\paul\documents\visual studio 2010\Projects\skid analysis\skid analysis\obj\x86\Debug\ResGen.read.1.tlog
+c:\users\paul\documents\visual studio 2010\Projects\skid analysis\skid analysis\obj\x86\Debug\ResGen.write.1.tlog
+c:\users\paul\documents\visual studio 2010\Projects\skid analysis\skid analysis\obj\x86\Debug\skid analysis.exe
+c:\users\paul\documents\visual studio 2010\Projects\skid analysis\skid analysis\obj\x86\Debug\skid analysis.pdb
+F:\Visual Studio 2010\Projects\skid analysis\skid analysis\obj\x86\Debug\skid analysis.exe
+F:\Visual Studio 2010\Projects\skid analysis\skid analysis\obj\x86\Debug\skid analysis.pdb
+F:\Visual Studio 2010\Projects\skid analysis\skid analysis\bin\Debug\skid analysis.exe
+F:\Visual Studio 2010\Projects\skid analysis\skid analysis\bin\Debug\skid analysis.pdb
+F:\Visual Studio 2010\Projects\skid analysis\skid analysis\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Visual Studio 2010\Projects\skid analysis\skid analysis\obj\x86\Debug\skid_analysis.Form1.resources
+F:\Visual Studio 2010\Projects\skid analysis\skid analysis\obj\x86\Debug\skid_analysis.Properties.Resources.resources
+F:\Visual Studio 2010\Projects\skid analysis\skid analysis\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Visual Studio 2010\Projects\skid analysis\skid analysis\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+F:\Visual Studio 2010\Projects\skid analysis\skid analysis\obj\x86\Debug\ResGen.read.1.tlog
+F:\Visual Studio 2010\Projects\skid analysis\skid analysis\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Visual Studio 2010\Projects\skid analysis\skid analysis\obj\x86\Debug\ResGen.write.1.tlog
+F:\Visual Studio 2010\Projects\skid analysis\skid analysis\obj\x86\Debug\skid_analysis.AboutThis.resources
+G:\skid analysis\skid analysis\obj\x86\Debug\skid analysis.exe
+G:\skid analysis\skid analysis\obj\x86\Debug\skid analysis.pdb
+G:\skid analysis\skid analysis\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\skid analysis\skid analysis\obj\x86\Debug\skid_analysis.Form1.resources
+G:\skid analysis\skid analysis\obj\x86\Debug\skid_analysis.Properties.Resources.resources
+G:\skid analysis\skid analysis\obj\x86\Debug\skid_analysis.AboutThis.resources
+G:\skid analysis\skid analysis\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+G:\skid analysis\skid analysis\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+G:\skid analysis\skid analysis\obj\x86\Debug\ResGen.read.1.tlog
+G:\skid analysis\skid analysis\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+G:\skid analysis\skid analysis\obj\x86\Debug\ResGen.write.1.tlog
+G:\skid analysis\skid analysis\bin\Debug\skid analysis.exe
+G:\skid analysis\skid analysis\bin\Debug\skid analysis.pdb

@@ -1,0 +1,10 @@
+C:\Users\paul\Documents\Visual Studio 2010\Projects\skid analysis\skid analysis\bin\Release\skid analysis.exe
+C:\Users\paul\Documents\Visual Studio 2010\Projects\skid analysis\skid analysis\bin\Release\skid analysis.pdb
+C:\Users\paul\Documents\Visual Studio 2010\Projects\skid analysis\skid analysis\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\paul\Documents\Visual Studio 2010\Projects\skid analysis\skid analysis\obj\x86\Release\skid_analysis.Form1.resources
+C:\Users\paul\Documents\Visual Studio 2010\Projects\skid analysis\skid analysis\obj\x86\Release\skid_analysis.Properties.Resources.resources
+C:\Users\paul\Documents\Visual Studio 2010\Projects\skid analysis\skid analysis\obj\x86\Release\skid_analysis.AboutThis.resources
+C:\Users\paul\Documents\Visual Studio 2010\Projects\skid analysis\skid analysis\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\paul\Documents\Visual Studio 2010\Projects\skid analysis\skid analysis\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\paul\Documents\Visual Studio 2010\Projects\skid analysis\skid analysis\obj\x86\Release\skid analysis.exe
+C:\Users\paul\Documents\Visual Studio 2010\Projects\skid analysis\skid analysis\obj\x86\Release\skid analysis.pdb
